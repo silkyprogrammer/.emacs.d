@@ -222,4 +222,6 @@
       python-shell-interpreter-args "-i")
 (setq elpy-rpc-virtualenv-path 'global)
 
+(setq org-log-done 'time)
+
 ;;; init.el ends here
